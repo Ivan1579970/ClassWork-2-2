@@ -34,11 +34,21 @@
 // for...of - выводит только элементы массива
 
 
-let person = {name: "Tom", age: 17};
-// console.log(person ["name"]);
+// let person = {name: "Tom", age: 17};
+// // console.log(person ["name"]);
 
-for ( let item in person )
-{
-    let result = person[item]
-    console.log(result);
-}
+// for ( let item in person )
+// {
+//     let result = person[item]
+//     console.log(result);
+// }
+
+// const array = [["Tom", 16], ["Bob", 17], ["Stan", 18]];
+// for ( sudArr of array)
+// {
+//     for ( let item of sudArr)
+//     {
+//         console.log(item)
+//     }
+//     console.log('-------')
+// }
