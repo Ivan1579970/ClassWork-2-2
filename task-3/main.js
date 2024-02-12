@@ -32,7 +32,7 @@ const students =
     {name: "Pavel", age: 17, serial: 11111, group: "Is 2-2"},
 ]
 
-let studentIndex = 1;
+let studentIndex = 3;
 let studentName = students[studentIndex]["name"];
 let studentAge = students[studentIndex]["age"];
 
